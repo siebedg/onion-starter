@@ -1,6 +1,5 @@
 import React from "react";
 import Swal from "sweetalert2";
-import "./App.css"; 
 
 const App = () => {
   const sumNumbers = async () => {
